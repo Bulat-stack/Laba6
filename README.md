@@ -32,7 +32,9 @@
 - TaskStorage: Логика API и хранилище данных.
 
 Пример работы
-![Снимок экрана 2024-12-15 151732](https://github.com/user-attachments/assets/61c9e0c9-f0d8-42ad-a448-b09a9aaf147c)
-![Снимок экрана 2024-12-15 151753](https://github.com/user-attachments/assets/cbb266f4-edf7-41e4-a0a3-324ba7466a0b)
+![image](https://github.com/user-attachments/assets/d3a88c08-074c-48e9-af7d-67d95ad1e212)
+
+![image](https://github.com/user-attachments/assets/9445e8bc-7faa-47d5-8fd1-715ce14b783c)
+
 
 
